@@ -58,8 +58,11 @@ The project is organized into the following folders:
 ## Links
 
 Canva Infographic: https://canva.link/r07m5bvbtrugmix
+
 Google Form: https://docs.google.com/forms/d/e/1FAIpQLSdNbpB4UosJt2YvQoGLdg1n_NrFVgsGXDzB4baeFXXT1feVzw/viewform?usp=dialog
+
 LinkedIn: https://www.linkedin.com/in/yug-jain-6ab2b63bb/
+
 
 ---
 
