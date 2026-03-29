@@ -1,0 +1,5 @@
+In this task, I explored coding and collaboration platforms. I used HackerRank to solve a beginner-level programming problem, which helped me understand basic coding and problem-solving.
+
+I also created a Google Form for a digital literacy quiz and linked it to Google Sheets to collect responses. This helped me learn how to create forms, collect data, and manage responses efficiently.
+
+Overall, this task improved my understanding of using online platforms for learning and collaboration.
